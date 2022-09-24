@@ -22,18 +22,18 @@
 
 :root {
     --hl-color: #c9d1d9;
-    --hl-bg: #0d1117;
-    --hltools-bg: #f6f8fa;
-    --hltools-color: #24292e;
-    --hlnumber-bg: #f6f8fa;
-    --hlnumber-color: #24292e;
+    --hl-bg: #171717;
+    --hltools-bg: #171717;
+    --hltools-color: #e8ebed;
+    --hlnumber-bg: #171717;
+    --hlnumber-color: #e8ebed;
     --hlscrollbar-bg: #d3af86;
     --hlexpand-bg: #d3af86;
   }
 
   #article-container figure.highligh .hljs {
   color: #c9d1d9;
-  background: #0d1117;
+  background: #171717;
   }
 
 .hljs-doctag,
