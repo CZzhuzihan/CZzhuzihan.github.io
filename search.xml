@@ -20,7 +20,7 @@
       </tags>
   </entry>
   <entry>
-    <title>abc270</title>
+    <title>AtCoder Beginner Contest 270</title>
     <url>/2022/09/24/abc270/</url>
     <content><![CDATA[<h2 id="TOYOTA-MOTOR-CORPORATION-Programming-Contest-2022-AtCoder-Beginner-Contest-270"><a href="#TOYOTA-MOTOR-CORPORATION-Programming-Contest-2022-AtCoder-Beginner-Contest-270" class="headerlink" title="TOYOTA MOTOR CORPORATION Programming Contest 2022(AtCoder Beginner Contest 270)"></a><a href="https://atcoder.jp/contests/abc270/">TOYOTA MOTOR CORPORATION Programming Contest 2022(AtCoder Beginner Contest 270)</a></h2><h3 id="A-1-2-4-Test"><a href="#A-1-2-4-Test" class="headerlink" title="A - 1-2-4 Test"></a><a href="https://atcoder.jp/contests/abc270/tasks/abc270_a">A - 1-2-4 Test</a></h3><h4 id="题目翻译"><a href="#题目翻译" class="headerlink" title="题目翻译"></a>题目翻译</h4><p>输入两个数<code>a</code>、<code>b</code>，输出<code>a|b</code></p>
 <h4 id="AC代码"><a href="#AC代码" class="headerlink" title="AC代码"></a>AC代码</h4><figure class="highlight cpp"><table><tr><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-keyword">include</span><span class="hljs-string">&lt;bits/stdc++.h&gt;</span></span><br><span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> std;<br><span class="hljs-function"><span class="hljs-type">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>&#123;<br>	<span class="hljs-type">int</span> x,y;<br>	cin&gt;&gt;x&gt;&gt;y;<br>	cout&lt;&lt;(x | y);<br>	<span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>
